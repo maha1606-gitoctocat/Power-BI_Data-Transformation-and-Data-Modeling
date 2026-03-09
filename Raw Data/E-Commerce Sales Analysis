@@ -1,0 +1,43 @@
+📊 Sales Data Analysis – Power BI Project
+
+📌 Project Overview
+
+This project focuses on data transformation, data modeling, and visualization using Power BI. The dataset includes information about customers, products, stores, and sales transactions. The goal of this project is to transform raw data into meaningful insights and create an interactive dashboard for business decision-making.
+
+This project demonstrates essential Data Analyst skills, including data cleaning, relational data modeling.
+
+⚙️ Data Transformation
+
+Data cleaning and transformation were performed using Power Query:
+
+Removed duplicate and null values
+
+Standardized column names and data types
+
+Created calculated columns (Age Group, Loyalty Levels)
+
+Structured the dataset for analysis
+
+🔗 Data Modeling
+
+A star schema model was created in Power BI.
+
+Relationships
+
+Customer_ID → Sales Table
+
+Product_ID → Sales Table
+
+Store_ID → Sales Table
+
+🛠 Tools & Technologies
+
+Power BI
+
+Power Query
+
+DAX
+
+Excel (Data Source)
+
+This allows efficient filtering and cross-table analysis.
