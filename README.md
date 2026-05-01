@@ -25,4 +25,4 @@
 - Power Query
 - Excel (Data Source)
 
-- ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI_Data-Transformation-and-Data-Modeling/blob/edf9a1133fe04ad02dad877484b9515e02f6ada5/Raw%20Data/Power%20BI%20-%20Final%20Output)
+- ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI_Data-Transformation-and-Data-Modeling/blob/9864e5755015bb3b406933f342c0d27ca4dad32f/Power%20BI%20-%20Data%20Modeling.jpg)
